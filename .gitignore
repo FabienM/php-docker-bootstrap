@@ -1,0 +1,4 @@
+# Docker container logs and data
+docker/logs/
+docker/data/
+
